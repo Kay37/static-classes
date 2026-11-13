@@ -69,6 +69,3 @@ class NameFormatterTest {
         assertEquals("Smith, Dr. John, PhD", actual);
     }
 }
-
-
-}
